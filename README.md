@@ -1,0 +1,2 @@
+# minecraft_rank_plugin_basic
+minecraft_rank_plugin_basic
